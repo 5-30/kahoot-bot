@@ -9,7 +9,7 @@ from colorama import Fore, init
 init()
 
 
-howmany = 5 # Avoid getting over 30, it may cause issues with your internet
+howmany = 20 # Avoid getting over 30, it may cause issues with your internet
 
 import os
 
